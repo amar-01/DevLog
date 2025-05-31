@@ -60,7 +60,7 @@ DevLog/
 
 1. **Clone the repo**
 ```bash
-git clone https://github.com/yourusername/DevLog.git
+git clone https://github.com/amar-01/DevLog.git
 cd DevLog
 ```
 
